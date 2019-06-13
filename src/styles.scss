@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~owl-ng/assets/style/theme.min.css";
+@import "sass/main";
+.owl-chkbox-label,.owl-radio-label-content{
+    color: black !important;
+}
+.owl-radio-focused .owl-radio-circle{
+    box-shadow: #82be42 !important;
+}
+.owl-radio-checked .owl-radio-circle:before{
+    background-color: #82be42;
+    box-shadow: inset 0 0 0 0.15em #f4f4f4;
+    border-color: #82be42;
+}
+.owl-chkbox-filled .owl-chkbox-box{
+    background: #82be42;
+    border-color: #82be42;
+}
+.game-puzzle-frame{
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.75) !important;
+
+}
+
+

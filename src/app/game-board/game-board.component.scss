@@ -17,6 +17,7 @@
 }
 
 .game-puzzle-board {
+  margin-top: 50px;
   grid-area: board;
   display: grid;
   grid-template-rows: 1fr 8rem;

@@ -7,7 +7,7 @@
 
 The object of the puzzle is to place the tiles in order (see diagram) by making sliding moves that use the empty space.
 
-This project was intentionally programmed to solve the n-puzzle problem with artificial inelegance algorithms.
+This project was intentionally programmed to solve the n-puzzle problem with artificial inelegance algorithms.  edited from priya
 
 Powered by Angular
 <p align="center"><img style="text-align: center;" src="/assets/game-shot.png?raw=true"></p>
